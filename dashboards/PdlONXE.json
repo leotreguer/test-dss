@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "M4SYt8C",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "leo.treguer",
+  "listed": true,
+  "name": "sandbox\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "leo.treguer"
+    },
+    "lastModifiedOn": 1598374901314
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "leo.treguer"
+    },
+    "lastModifiedOn": 1598374901314
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
