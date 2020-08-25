@@ -25,8 +25,25 @@
     "autoRefreshSample": false
   },
   "explorationFilters": [],
-  "exploreUIParams": {},
-  "steps": [],
+  "origin": "PREPARE_RECIPE",
+  "exploreUIParams": {
+    "autoRefresh": true
+  },
+  "steps": [
+    {
+      "preview": true,
+      "metaType": "PROCESSOR",
+      "disabled": false,
+      "type": "SplitFold",
+      "params": {
+        "trimSpaces": true,
+        "keepEmptyChunks": false,
+        "column": "new_column",
+        "separator": ","
+      },
+      "alwaysShowComment": false
+    }
+  ],
   "maxProcessedMemTableBytes": -1,
   "previewMode": "ALL_ROWS",
   "vizSampling": {
@@ -34,7 +51,26 @@
     "autoRefreshSample": false
   },
   "analysisColumnData": {},
-  "columnWidthsByName": {},
+  "columnWidthsByName": {
+    "new_column_9": 134,
+    "new_column_8": 134,
+    "new_column_7": 134,
+    "new_column_6": 134,
+    "new_column_5": 134,
+    "new_column_4": 134,
+    "new_column_3": 134,
+    "new_column_2": 134,
+    "new_column_1": 134,
+    "new_column_16": 148,
+    "new_column_0": 134,
+    "new_column_15": 141,
+    "new_column_14": 300,
+    "new_column_13": 141,
+    "new_column_12": 141,
+    "new_column_11": 141,
+    "new_column_10": 141,
+    "new_column": 300
+  },
   "sorting": [],
   "globalSearchQuery": "",
   "coloring": {
