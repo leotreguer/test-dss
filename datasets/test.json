@@ -35,11 +35,11 @@
     "dimensions": []
   },
   "versionTag": {
-    "versionNumber": 1,
+    "versionNumber": 2,
     "lastModifiedBy": {
       "login": "leo.treguer"
     },
-    "lastModifiedOn": 1598374913760
+    "lastModifiedOn": 1598374924165
   },
   "creationTag": {
     "versionNumber": 0,
@@ -56,7 +56,12 @@
     "importProjectKey": "SANDBOX_1"
   },
   "schema": {
-    "columns": [],
+    "columns": [
+      {
+        "name": "new_column",
+        "type": "string"
+      }
+    ],
     "userModified": true
   },
   "metrics": {

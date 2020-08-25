@@ -1,3 +1,13 @@
 {
-  "data": []
+  "data": [
+    [
+      "aahmed103@slb.com, ahujaina@slb.com, apal2@slb.com, aviscaino@slb.com, bvinta@slb.com, ctoyas@slb.com, dkoncz@slb.com, dkumar14@slb.com, dwahid@slb.com, fkiss@slb.com, gassaf@slb.com, gcochrane@slb.com, isaleh4@slb.com, mameeri@slb.com, Mat Ezlakowski \u003cmat.ezlakowski@dataiku.com\u003e, mtaha5@slb.com, pthangamani@slb.com"
+    ]
+  ],
+  "schema": {
+    "columns": [
+      {"name":"new_column","type":"string"}
+    ],
+    "userModified": false
+  }
 }
