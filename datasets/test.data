@@ -1,13 +1,16 @@
 {
   "data": [
     [
-      "aahmed103@slb.com, ahujaina@slb.com, apal2@slb.com, aviscaino@slb.com, bvinta@slb.com, ctoyas@slb.com, dkoncz@slb.com, dkumar14@slb.com, dwahid@slb.com, fkiss@slb.com, gassaf@slb.com, gcochrane@slb.com, isaleh4@slb.com, mameeri@slb.com, Mat Ezlakowski \u003cmat.ezlakowski@dataiku.com\u003e, mtaha5@slb.com, pthangamani@slb.com"
+      "achshebelnikov@slb.com, aefimov@slb.com, afrendi@slb.com, aghosal@slb.com, akuvanyshev@slb.com, akuvichko@slb.com, alukpanov3@slb.com, bsuleimenov@slb.com, bvinta@slb.com, ctownend@slb.com, dissayev@slb.com, dkovyazin@slb.com, dsidorov@slb.com, imaduako1@slb.com, kaditya@slb.com, manoj@slb.com, Mat Ezlakowski \u003cmat.ezlakowski@dataiku.com\u003e, mhamed16@slb.com, ssalem6@slb.com, stourneur@slb.com"
+    ],
+    [
+      null
     ]
   ],
   "schema": {
     "columns": [
       {"name":"new_column","type":"string"}
     ],
-    "userModified": false
+    "userModified": true
   }
 }
