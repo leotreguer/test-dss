@@ -1,7 +1,14 @@
 {
-  "gitReferences": {},
+  "gitReferences": {
+    "target": {
+      "remote": "https://github.com/leotreguer/Map-Reduce.git",
+      "checkout": "refs/heads/master",
+      "remotePath": ""
+    }
+  },
   "pythonPath": [
-    "python"
+    "python",
+    "target"
   ],
   "rsrcPath": [
     "R"
