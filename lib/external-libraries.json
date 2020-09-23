@@ -3,7 +3,8 @@
     "target": {
       "remote": "https://github.com/leotreguer/Map-Reduce.git",
       "checkout": "refs/heads/master",
-      "remotePath": ""
+      "remotePath": "",
+      "lastHash": "13be168f81a2f6e5c02e0670f1dd9e95a52d988c"
     }
   },
   "pythonPath": [
